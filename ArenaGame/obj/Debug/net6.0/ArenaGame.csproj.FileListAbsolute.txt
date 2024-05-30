@@ -1,0 +1,23 @@
+C:\Users\FMI\OOP\AreanGame\ArenaGame\bin\Debug\net6.0\ArenaGame.deps.json
+C:\Users\FMI\OOP\AreanGame\ArenaGame\bin\Debug\net6.0\ArenaGame.dll
+C:\Users\FMI\OOP\AreanGame\ArenaGame\bin\Debug\net6.0\ArenaGame.pdb
+C:\Users\FMI\OOP\AreanGame\ArenaGame\obj\Debug\net6.0\ArenaGame.csproj.AssemblyReference.cache
+C:\Users\FMI\OOP\AreanGame\ArenaGame\obj\Debug\net6.0\ArenaGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FMI\OOP\AreanGame\ArenaGame\obj\Debug\net6.0\ArenaGame.AssemblyInfoInputs.cache
+C:\Users\FMI\OOP\AreanGame\ArenaGame\obj\Debug\net6.0\ArenaGame.AssemblyInfo.cs
+C:\Users\FMI\OOP\AreanGame\ArenaGame\obj\Debug\net6.0\ArenaGame.csproj.CoreCompileInputs.cache
+C:\Users\FMI\OOP\AreanGame\ArenaGame\obj\Debug\net6.0\ArenaGame.dll
+C:\Users\FMI\OOP\AreanGame\ArenaGame\obj\Debug\net6.0\refint\ArenaGame.dll
+C:\Users\FMI\OOP\AreanGame\ArenaGame\obj\Debug\net6.0\ArenaGame.pdb
+C:\Users\FMI\OOP\AreanGame\ArenaGame\obj\Debug\net6.0\ref\ArenaGame.dll
+D:\Материалы ООП 2\AreanGame\AreanGame\ArenaGame\bin\Debug\net6.0\ArenaGame.deps.json
+D:\Материалы ООП 2\AreanGame\AreanGame\ArenaGame\bin\Debug\net6.0\ArenaGame.dll
+D:\Материалы ООП 2\AreanGame\AreanGame\ArenaGame\bin\Debug\net6.0\ArenaGame.pdb
+D:\Материалы ООП 2\AreanGame\AreanGame\ArenaGame\obj\Debug\net6.0\ArenaGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Материалы ООП 2\AreanGame\AreanGame\ArenaGame\obj\Debug\net6.0\ArenaGame.AssemblyInfoInputs.cache
+D:\Материалы ООП 2\AreanGame\AreanGame\ArenaGame\obj\Debug\net6.0\ArenaGame.AssemblyInfo.cs
+D:\Материалы ООП 2\AreanGame\AreanGame\ArenaGame\obj\Debug\net6.0\ArenaGame.csproj.CoreCompileInputs.cache
+D:\Материалы ООП 2\AreanGame\AreanGame\ArenaGame\obj\Debug\net6.0\ArenaGame.dll
+D:\Материалы ООП 2\AreanGame\AreanGame\ArenaGame\obj\Debug\net6.0\refint\ArenaGame.dll
+D:\Материалы ООП 2\AreanGame\AreanGame\ArenaGame\obj\Debug\net6.0\ArenaGame.pdb
+D:\Материалы ООП 2\AreanGame\AreanGame\ArenaGame\obj\Debug\net6.0\ref\ArenaGame.dll

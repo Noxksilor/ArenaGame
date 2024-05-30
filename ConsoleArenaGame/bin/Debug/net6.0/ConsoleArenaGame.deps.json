@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ConsoleArenaGame/1.0.0": {
+        "dependencies": {
+          "ArenaGame": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleArenaGame.dll": {}
+        }
+      },
+      "ArenaGame/1.0.0": {
+        "runtime": {
+          "ArenaGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleArenaGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArenaGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

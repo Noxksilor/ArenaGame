@@ -1,0 +1,25 @@
+C:\Users\FMI\OOP\AreanGame\WinFormArenaGame\bin\Debug\net6.0-windows\WinFormArenaGame.exe
+C:\Users\FMI\OOP\AreanGame\WinFormArenaGame\bin\Debug\net6.0-windows\WinFormArenaGame.deps.json
+C:\Users\FMI\OOP\AreanGame\WinFormArenaGame\bin\Debug\net6.0-windows\WinFormArenaGame.runtimeconfig.json
+C:\Users\FMI\OOP\AreanGame\WinFormArenaGame\bin\Debug\net6.0-windows\WinFormArenaGame.dll
+C:\Users\FMI\OOP\AreanGame\WinFormArenaGame\bin\Debug\net6.0-windows\WinFormArenaGame.pdb
+C:\Users\FMI\OOP\AreanGame\WinFormArenaGame\obj\Debug\net6.0-windows\WinFormArenaGame.csproj.AssemblyReference.cache
+C:\Users\FMI\OOP\AreanGame\WinFormArenaGame\obj\Debug\net6.0-windows\WinFormArenaGame.MainForm.resources
+C:\Users\FMI\OOP\AreanGame\WinFormArenaGame\obj\Debug\net6.0-windows\WinFormArenaGame.Properties.Resources.resources
+C:\Users\FMI\OOP\AreanGame\WinFormArenaGame\obj\Debug\net6.0-windows\WinFormArenaGame.csproj.GenerateResource.cache
+C:\Users\FMI\OOP\AreanGame\WinFormArenaGame\obj\Debug\net6.0-windows\WinFormArenaGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FMI\OOP\AreanGame\WinFormArenaGame\obj\Debug\net6.0-windows\WinFormArenaGame.AssemblyInfoInputs.cache
+C:\Users\FMI\OOP\AreanGame\WinFormArenaGame\obj\Debug\net6.0-windows\WinFormArenaGame.AssemblyInfo.cs
+C:\Users\FMI\OOP\AreanGame\WinFormArenaGame\obj\Debug\net6.0-windows\WinFormArenaGame.csproj.CoreCompileInputs.cache
+C:\Users\FMI\OOP\AreanGame\WinFormArenaGame\obj\Debug\net6.0-windows\WinFormArenaGame.dll
+C:\Users\FMI\OOP\AreanGame\WinFormArenaGame\obj\Debug\net6.0-windows\refint\WinFormArenaGame.dll
+C:\Users\FMI\OOP\AreanGame\WinFormArenaGame\obj\Debug\net6.0-windows\WinFormArenaGame.pdb
+C:\Users\FMI\OOP\AreanGame\WinFormArenaGame\obj\Debug\net6.0-windows\WinFormArenaGame.genruntimeconfig.cache
+C:\Users\FMI\OOP\AreanGame\WinFormArenaGame\obj\Debug\net6.0-windows\ref\WinFormArenaGame.dll
+C:\Users\FMI\OOP\AreanGame\WinFormArenaGame\bin\Debug\net6.0-windows\ArenaGame.dll
+C:\Users\FMI\OOP\AreanGame\WinFormArenaGame\bin\Debug\net6.0-windows\ArenaGame.pdb
+C:\Users\FMI\OOP\AreanGame\WinFormArenaGame\obj\Debug\net6.0-windows\WinFormArenaGame.csproj.CopyComplete
+D:\Материалы ООП 2\AreanGame\AreanGame\WinFormArenaGame\obj\Debug\net6.0-windows\WinFormArenaGame.csproj.AssemblyReference.cache
+D:\Материалы ООП 2\AreanGame\AreanGame\WinFormArenaGame\obj\Debug\net6.0-windows\WinFormArenaGame.dll
+D:\Материалы ООП 2\AreanGame\AreanGame\WinFormArenaGame\obj\Debug\net6.0-windows\refint\WinFormArenaGame.dll
+D:\Материалы ООП 2\AreanGame\AreanGame\WinFormArenaGame\obj\Debug\net6.0-windows\WinFormArenaGame.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WinFormArenaGame/1.0.0": {
+        "dependencies": {
+          "ArenaGame": "1.0.0"
+        },
+        "runtime": {
+          "WinFormArenaGame.dll": {}
+        }
+      },
+      "ArenaGame/1.0.0": {
+        "runtime": {
+          "ArenaGame.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WinFormArenaGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArenaGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
